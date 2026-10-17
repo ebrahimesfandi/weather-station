@@ -1,6 +1,6 @@
 {
   "version": "10.8",
-  "url": "https://raw.githubusercontent.com/ebrahimesfandi/weather-station/main/firmware.bin",
-  "md5": "PUT_THE_MD5_OF_firmware.bin_HERE",
+  "url": "https://raw.githubusercontent.com/ebrahimesfandi/weather-station/main/firmware_10.8.bin",
+  "md5": "b12a165eb125507863e31798bcb587f9",
   "notes": "Short text about what is new"
 }
