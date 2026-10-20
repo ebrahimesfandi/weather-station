@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
   "versionName": "1.1.0",
-  "apkUrl": "https://github.com/ebrahimesfandi/weather-station/releases/download/v1.1.0/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ebrahimesfandi/weather-station/main/app-release.apk",
   "releaseNotes": "رفع باگ‌ها و بهبود اتصال به شبکه محلی"
 }
