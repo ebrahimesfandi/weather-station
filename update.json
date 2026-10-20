@@ -1,6 +1,6 @@
 {
   "versionCode": 5,
   "versionName": "1.4",
-  "apkUrl": "https://raw.githubusercontent.com/ebrahimesfandi/weather-station/main/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ebrahimesfandi/weather-station/main/app-debug.apk",
   "releaseNotes": "رفع باگ‌ها و بهبود اتصال به شبکه محلی"
 }
