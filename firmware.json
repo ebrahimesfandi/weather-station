@@ -8,7 +8,7 @@
   "wrover": {
     "version": "0.68",
     "url": "https://raw.githubusercontent.com/ebrahimesfandi/weather-station/main/wrover_firmware.bin",
-    "md5": "b2fc77ebe7ef18ff050d05dcb9310ab9",
+    "md5": "147e0155fe70b55afdc02449c7a1bed9",
     "notes": "Short text about what is new"
   }
 }
