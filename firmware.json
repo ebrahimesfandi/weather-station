@@ -6,7 +6,7 @@
     "notes": "Short text about what is new"
   },
   "wrover": {
-    "version": "0.67",
+    "version": "0.69",
     "url": "https://raw.githubusercontent.com/ebrahimesfandi/weather-station/main/wrover_firmware.bin",
     "md5": "147e0155fe70b55afdc02449c7a1bed9",
     "notes": "Short text about what is new"
