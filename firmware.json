@@ -1,6 +1,6 @@
 {
   "s3": {
-    "version": "10.9",
+    "version": "10.53",
     "url": "https://raw.githubusercontent.com/ebrahimesfandi/weather-station/main/s3_firmware.bin",
     "md5": "6ca5ba94e9c29765ed1ece3ac8d7d699",
     "notes": "Short text about what is new"
